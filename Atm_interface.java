@@ -35,6 +35,7 @@ class Atm
     {
         public static void main(String arg[])
         {
+            Scanner sc =new Scanner(System.in);
             int a=1;
             int pin1=1020;
             Atm atm =new Atm();
